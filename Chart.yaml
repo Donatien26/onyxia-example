@@ -1,0 +1,6 @@
+name: onyxia
+dependencies:
+  - name: onyxia
+    version: 1.0.3
+    repository: https://donatien26.github.io/onyxia-chartV2/
+    enabled: true
